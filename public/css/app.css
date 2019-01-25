@@ -8333,3 +8333,14 @@ button.close {
   }
 }
 
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.lbody {
+  background-image: url("http://pic.wuniantang.cn/bj.jpg");
+  width: 100%;
+  height: 593px;
+}
+
